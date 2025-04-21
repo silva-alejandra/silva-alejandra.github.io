@@ -1,34 +1,26 @@
 ---
 layout: about
-title: about
+title: about me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://harris.uchicago.edu/'>The Harris School of Public Policy</a>. <a href='https://www.garp.org/'>Global Association of Risk Professionals (FRM)</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Chicago, IL 60637</p>
+    <p>ao.silvajane@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false
+selected_papers: false
+social: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Alejandra Silva, and I am an international student from Peru pursuing a Master of Public Policy (MPP) at the University of Chicago’s Harris School of Public Policy. I hold a bachelor's degree in Economics from Universidad del Pacífico and earned the Financial Risk Manager (FRM) certification in 2022.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have over six years of experience in financial regulation and public finance, having worked at the Superintendency of Banking, Insurance, and Pension Funds of Peru (SBS), where I held positions such as Banking Supervisor and Economic Research Analyst. I led macroprudential policy efforts aligned with Basel III standards, designed national financial relief programs during the COVID-19 crisis, and created regulatory tools using SQL, R, and geospatial data to enhance financial inclusion and systemic risk oversight.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Most recently, I have contributed to financial innovation at the Office of the Illinois State Treasurer and the Cambridge Centre for Alternative Finance. My work includes building dashboards for public investment funds, improving prepaid card access for college savers, and co-developing SupTech applications with regulators across Latin America, Africa, and Asia.  
+
+My academic interests focus on public finance, financial inclusion, and the use of data and technology for better policy. My goal is to bridge finance and policy to design inclusive and resilient financial systems—especially for underserved communities in emerging markets.
