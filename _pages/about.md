@@ -6,7 +6,7 @@ subtitle: <a href='https://harris.uchicago.edu/'>The Harris School of Public Pol
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_alejandra.jpeg
   image_circular: true
   more_info: >
     <p>Chicago, IL 60637</p>
