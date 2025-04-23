@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Data-driven projects that blend public policy, financial regulation, and technology.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
