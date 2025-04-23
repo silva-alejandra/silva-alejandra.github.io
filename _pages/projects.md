@@ -20,7 +20,7 @@ nav_order: 3
      📊 <a href="https://silva-alejandra.shinyapps.io/financial-inclusion-peru1/" target="_blank">Live Dashboard</a></p>
 </div>
 
-
+<hr>
 
 <div class="section">
   <h3>2. Equity Analytics for Illinois' Unemployment Insurance Program</h3>
@@ -31,7 +31,7 @@ nav_order: 3
      📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiZDhmOGYxMDQtODdhNC00MjgzLWE4MWMtNTM3NTMwMmQwOGZlIiwidCI6IjgzYjAyYzkyLTVmMjYtNDhlZC05ZTViLTZjMmZjYTQ2YThlNiIsImMiOjN9" target="_blank">Live Dashboard</a></p>
 </div>
 
-
+<hr>
 
 <div class="section">
   <h3>3. Macroprudential Heatmap Tool for Financial Stability</h3>
