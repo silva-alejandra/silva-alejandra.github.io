@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Alejandra Silva, FRM",
-    "label": "Public Policy & Financial Regulation Professional",
+    "name": "Alejandra Silva",
+ 
     "image": "",
     "email": "ao.silvajane@gmail.com",
     "phone": "773-595-1307",
@@ -136,12 +136,12 @@
   ],
   "interests": [
     {
-      "name": "Inclusive finance",
-      "keywords": ["Financial access", "Digital public infrastructure", "Regulatory innovation"]
+      "name": "Financial innovation for inclusion",
+      "keywords": ["Fintech", "Access to credit", "Public-private products"]
     },
     {
-      "name": "Data for policy",
-      "keywords": ["SupTech", "Data pipelines", "Geospatial analysis"]
-    }
+      "name": "Data-driven policy",
+      "keywords": ["ETL pipelines", "Geospatial analysis"]
+    }    
   ]
 }
