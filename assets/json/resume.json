@@ -25,8 +25,8 @@
   "work": [
     {
       "name": "Cambridge Centre for Alternative Finance (CCAF)",
-      "position": "Suptech Specialist",
       "url": "https://lab.ccaf.io",
+      "position": "Suptech Specialist",
       "startDate": "2024-09",
       "endDate": "2025-03",
       "summary": "Built supervisory data tools with regulators in Peru, Ecuador, Egypt, and India. Led sentiment analysis and facilitated global policy dialogue on digital public infrastructure.",
@@ -51,8 +51,8 @@
     },
     {
       "name": "Superintendency of Banking, Insurance and Pension Funds of Peru",
-      "position": "Economic Research Analyst",
       "url": "https://www.sbs.gob.pe",
+      "position": "Economic Research Analyst",
       "startDate": "2019-05",
       "endDate": "2023-08",
       "summary": "Led macroprudential strategy and digital supervision reforms. Designed COVID-19 relief and insurance fund tools.",
@@ -65,8 +65,8 @@
     },
     {
       "name": "Superintendency of Banking, Insurance and Pension Funds of Peru",
-      "position": "Banking Supervisor",
       "url": "https://www.sbs.gob.pe",
+      "position": "Banking Supervisor",
       "startDate": "2018-05",
       "endDate": "2019-04",
       "summary": "Supervised risk exposure of Peru’s largest lenders using daily microdata analytics.",
@@ -79,8 +79,8 @@
   "education": [
     {
       "institution": "University of Chicago - Harris School of Public Policy",
-      "location": "Chicago, IL",
       "url": "https://harris.uchicago.edu",
+      "location": "Chicago, IL",
       "area": "Public Policy",
       "studyType": "Master's",
       "startDate": "2023-07",
