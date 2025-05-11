@@ -6,7 +6,7 @@
     "email": "ao.silvajane@gmail.com",
     "phone": "773-595-1307",
     "url": "https://silva-alejandra.github.io",
-    "summary": "Development finance and digital inclusion specialist with 6+ years of experience advancing regulatory innovation and data-driven policy in the U.S. and Latin America. Skilled in SQL, Python, and R for policy analysis and decision-making. Proven ability to design digital tools for financial oversight, lead crisis-response strategies, and support initiatives that expand access for underserved populations.",
+    "summary": "FRM-certified economist with 7+ years of experience using data and technology to drive strategic decisions in public policy, finance, and regulation. Skilled in SQL, Python, R, and business intelligence tools.",
     "location": {
       "address": "",
       "postalCode": "IL 60637",
@@ -29,11 +29,11 @@
       "position": "Suptech Specialist",
       "startDate": "2024-09",
       "endDate": "2025-03",
-      "summary": "Built supervisory data tools with regulators in Peru, Ecuador, Egypt, and India. Led sentiment analysis and facilitated global policy dialogue on digital public infrastructure.",
+      "summary": "The Cambridge SupTech Lab at CCAF collaborates with global financial regulators to develop technology solutions for modernized supervisory oversight.",
       "highlights": [
-        "Designed tools for oversight impacting 100M+ people",
-        "Applied sentiment analysis to 300K+ policy comments",
-        "Led engagements with 1,000+ global stakeholders"
+        "Consumer protection chatbot & CMS",
+        "NLP Tool for Market Conduct Risk",
+        "Suptech Week 2024 (1,000+ stakeholders; 20+ jurisdictions)"      
       ]
     },
     {
@@ -42,11 +42,11 @@
       "url": "https://illinoistreasurer.gov",
       "startDate": "2024-06",
       "endDate": "2024-09",
-      "summary": "Contributed to data analysis and product development for 529 college savings and $20B+ in public funds.",
+      "summary": "The Illinois State Treasurer’s Office (ISTO) manages public investments, promotes financial literacy, and expands access to financial programs in Illinois.",
       "highlights": [
-        "Developed Power BI dashboard for liquidity forecasting",
-        "Analyzed historical data to optimize investment strategy",
-        "Evaluated prepaid card solutions for 100K+ users"
+        "Illinois Funds Liquidity Dashboard",
+        "529 Fund Strategy Analysis",
+        "Prepaid Card Rollout Assessment"
       ]
     },
     {
@@ -55,41 +55,43 @@
       "position": "Economic Research Analyst",
       "startDate": "2019-05",
       "endDate": "2023-08",
-      "summary": "Led macroprudential strategy and digital supervision reforms. Designed COVID-19 relief and insurance fund tools.",
+      "summary": "The Economic Research Department at SBS conducts research, develops regulations, and monitors risks to enhance financial stability and inclusion in Peru.",
       "highlights": [
-        "Designed Peru’s first Deposit Insurance Fund",
-        "Led $13B+ COVID relief implementation",
-        "Built financial access map with 1M+ records",
-        "Automated macroprudential heatmap pipeline"
+        "Basel III Credit Risk Framework",
+        "Cooperative Deposit Insurance Fund (FSDC) coverage and premium structure definition",
+        "Macroprudential Heatmap Automation (SQL, Tableu, APIs)",
+        "COVID-19 Payment Protection Program (Reactiva Perú) data pipeline development",
+        "COVID-19 Retirement Withdrawal Impact Analysis"
       ]
-    },
+    },   
     {
       "name": "Superintendency of Banking, Insurance and Pension Funds of Peru",
       "url": "https://www.sbs.gob.pe",
       "position": "Banking Supervisor",
       "startDate": "2018-05",
       "endDate": "2019-04",
-      "summary": "Supervised risk exposure of Peru’s largest lenders using daily microdata analytics.",
+      "summary": "The Banking Supervision Department at SBS oversees the financial system to ensure compliance with regulations and promote financial stability.",
       "highlights": [
-        "Oversaw institutions with 70% market share",
-        "Built SQL tools to detect systemic risk"
+        "Financial Inclusion Dashboard (Shiny)",
+        "Banking supervision Reports (SQL)",
+        "SQL & Power BI (DAX) Guides"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Chicago - Harris School of Public Policy",
+      "institution": "University of Chicago",
       "url": "https://harris.uchicago.edu",
       "location": "Chicago, IL",
       "area": "Public Policy",
-      "studyType": "Master's",
+      "studyType": "Master",
       "startDate": "2023-07",
       "endDate": "2025-06",
       "score": "3.7",
       "courses": [
-        "Machine Learning in Python",
-        "Cloud Computing",
-        "Program Evaluation",
+        "Machine Learning (in Python)",
+        "Program Evaluation (in R)",
+        "Data Visualization (in ArcGIS, GeoDa, QGIS & R)",
         "Consumer Finance"
       ]
     },
